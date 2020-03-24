@@ -111,4 +111,6 @@ $lui->nomComplet='Ressa Rambaud'; //it creates a variable nomcomplet like adress
 
 var_dump($lui);
 //retourne la classe à laquelle appartient un objet
-echo get_class($toi); //Utilisateur
+echo get_class($moi); //Utilisateur
+echo get_class($toi); //test Git Hub
+echo get_class($moi);
